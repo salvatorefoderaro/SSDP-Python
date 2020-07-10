@@ -1,6 +1,6 @@
 # **SSDP-Python**
 
-Credit: https://github.com/codingjoe/ssdp
+Credits: https://github.com/codingjoe/ssdp
 
 What's changed? Removed NAT and Remove. Just Client and server for a stupid but usefull SSDP protocol in Python.
 
